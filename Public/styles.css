@@ -54,7 +54,7 @@ body{
 .home{
     position:relative;
     width:100%;
-    background-image: url("bg.jpg");
+    background-image: url("img/bg.jpg");
     color:var(--secondary-color);
     background-size: cover;
     background-position: center;
@@ -159,13 +159,13 @@ section{
 }
 
 .photo-card{
-    background-image: url("camera_card.jpg");
+    background-image: url("img/camera_card.jpg");
 }
 .film-card{
-    background-image: url("film_card.jpg");
+    background-image: url("img/film_card.jpg");
 }
 .mont-card{
-    background-image: url("montage_card.jpg");
+    background-image: url("img/montage_card.jpg");
 }
 
 .testimonials{
